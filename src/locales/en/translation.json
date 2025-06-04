@@ -1,0 +1,66 @@
+{
+  "Hero":{
+    "title":"- We care about your child's future",
+    "desc": "Our experienced teachers will make the learning process as engaging and effective as possible for your child. ",
+    "btn": "Call Us",
+    "btn2": "Learn More"
+  },
+  "header":{
+    "about": "About Our School",
+    "advantages": "Advantages",
+    "classes": "Classes",
+    "contacts": "Contacts",
+    "button": "Contact Us"
+  },
+  "About": {
+      "title": "About Us",
+      "desc": "For comfortable education and quality time, we group children into small, cozy classes divided by age and learning focus. We offer an individual approach to each child. No more than 10 students per class. In-depth English language learning. Additionally, we send our students abroad for language practice. Classes are from 8:00 AM to 5:00 PM. Optional: three balanced meals a day and help with homework.   All the conditions and comfort your child needs!"
+    },
+    "main": {
+      "advantages": "Our advantages ",
+      "meal": "three meals a day",
+      "school": "For a comfortable time at our school, we prepare tasty and healthy meals three times a day.",
+      "technologies": "IT technologies",
+      "informational": "The 21st century is the era of information technology. Your child will be able to learn the basics of programming, trends in the world of gadgets, and professions of the future.",
+      "arithmetic":"Mental arithmetic",
+      "calculations": "We will teach children to quickly perform complex mathematical calculations mentally.",
+      "English": "Communication in English",
+      "available": "For free communication in English, we provide a full day of Speaking sessions.",
+      "foreign": "Foreign languages",
+      "teachers": "Our highly qualified teachers will teach children English, Russian, Arabic, and Chinese languages."
+    },
+    "class": {
+      "className": "class",
+      "firstGrade": "1st grade",
+      "6-7yearsOld": "6-7 years old",
+      "logopedics": "Calligraphy study, speech therapy, English etiquette, conversational English, general education subjects, and sports activities.",
+      "btn": "to sign up",
+      "secondGrade": "2nd grade",
+      "7-8yearsOld": "7-8 years old",
+      "cognition": "English 1 step, Chinese language, arithmetic, logical thinking, general education subjects, and sports activities.",
+      "thirdGrade": "3rd grade",
+      "8-9yearsOld": "8-9 years old",
+      "language": "English 2 step, Arabic language, psychology, mental arithmetic, IT technologies, general education subjects, and sports activities.",
+      "fourthGrade": "4th grade",
+      "9-10yearsOld": "9-10 years old",
+      "education": "English 3 step, French and German languages, IT technologies, general education subjects, and sports activities.",
+      "zeroGrade": "zero grade",
+      "4-5yearsOld": "4-5 years old",
+      "logical": "Mathematics, logical thinking, handwriting, art studio, IT technologies, robotics, gymnastics, taekwondo."
+    },
+    "contact": {
+      "ToContact": "Contact us",
+      "Contacts": "Contacts",
+      "address": "Tashkent city, Chilanzar district, 16th quarter, Botirma street",
+      "number": "+998 97 197 07 71 (Mon–Fri, from 09:00 to 17:00)",
+      "request": "Submit a request",
+      "celebrate": "To celebrate the opening of our school, we’re offering a 20% discount",
+      "name": "Name",
+      "surname": "Surname",
+      "phoneNumber": "Number"
+    },
+    "footer": {
+      "title": "Contacts:",
+      "desc": "Stay with us:"
+    }
+}

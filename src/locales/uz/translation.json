@@ -1,0 +1,66 @@
+{
+    "Hero":{
+      "title":"- Biz farzandingiz kelajagi haqida g‘amxo‘rlik qilamiz.",
+      "desc": "Tajribali o‘qituvchilarimiz farzandingiz uchun o‘quv jarayonini iloji boricha qiziqarli va samarali qiladi. ",
+      "btn": "Qo‘ng‘iroq qilish",
+      "btn2": "Batafsil"
+    },
+    "header":{
+      "about": "Maktabimiz haqida",
+      "advantages": "Afzalliklar",
+      "classes": "Sinflar",
+      "contacts": "Aloqalar",
+      "button": "Biz bilan bog‘lanish"
+    },
+    "About": {
+      "title": "Biz haqimizda",
+      "desc": "Qulay taʼlim va mazmunli vaqt o‘tkazish uchun biz bolalarni yosh toifasi va taʼlim yo‘nalishlari bo‘yicha kichik va qulay guruhlarga bo‘lib o‘qitamiz. Har bir bolaga individual yondashuv. Har sinfda 10 nafardan ortiq o‘quvchi bo‘lmaydi. Ingliz tilini chuqurlashtirib o‘rganish. Bundan tashqari, bolalarimizni xorijga til amaliyotiga yuboramiz. Taʼlim soat 8:00 dan 17:00 gacha. Ixtiyoriy tarzda 3 mahal muvozanatli ovqatlanish va uy vazifalarini bajarish. Farzandlaringiz uchun barcha shart-sharoit va qulayliklar yaratilgan!"
+    },
+    "main": {
+      "advantages": "Bizning afzalliklarimiz",
+      "meal": "kuniga 3 mahal ovqatlanish",
+      "school": "Maktabimizda qulay va yoqimli vaqt o‘tkazish uchun kuniga 3 mahal mazali va foydali ovqat tayyorlaymiz",
+      "technologies": "IT texnologiyalar",
+      "informational": "21-asr — bu axborot texnologiyalari asri. Farzandingiz dasturlashning asoslarini, gadjetlar olamidagi tendensiyalarni va kelajak kasblarini o‘rganishi mumkin bo‘ladi.",
+      "arithmetic":"Mental arifmetika",
+      "calculations": "Biz bolalarga murakkab matematik hisoblarni tezda aqlida hisoblashni o‘rgatamiz.",
+      "English": "Ingliz tilida muloqot",
+      "available": "Ingliz tilida erkin muloqot qilish uchun bizda butun kun davomida Speaking mashg‘ulotlari tashkil etilgan.",
+      "foreign": "Chet tillari",
+      "teachers": "Bizning yuqori malakali o‘qituvchilarimiz bolalarni ingliz, rus, arab va xitoy tillariga o‘rgatadi."
+    },
+    "class": {
+      "className": "sinf",
+      "firstGrade": "1-sinf",
+      "6-7yearsOld": "6-7 yosh",
+      "logopedics": "Kaligrafiya o‘rganish, logopediya, ingliz etiketi, og‘zaki ingliz tili, umumta’lim fanlari va sport mashg‘ulotlari.",
+      "btn": "Ro‘yxatdan o‘tmoq ",
+      "secondGrade": "2 sinf",
+      "7-8yearsOld": "7-8 yosh",
+      "cognition": "Ingliz tili 1 bosqich, xitoy tili, arifmetika, mantiqiy tafakkur, umumta’lim fanlari va sport mashg‘ulotlari.",
+      "thirdGrade": "3 sinf",
+      "8-9yearsOld": "8-9 yosh",
+      "language": "Ingliz tili 2 bosqich, arab tili, psixologiya, mental arifmetika, IT texnologiyalar, umumta’lim fanlari va sport mashg‘ulotlari.",
+      "fourthGrade": "4 sinf",
+      "9-10yearsOld": "9-10 yosh",
+      "education": "Ingliz tili 3 bosqich, fransuz va nemis tillari, IT texnologiyalar, umumta’lim fanlari va sport mashg‘ulotlari.",
+      "zeroGrade": "0 sinf",
+      "4-5yearsOld": "4-5 yosh",
+      "logical": "Matematika, mantiqiy tafakkur, qo‘l yozuvi, rassomchilik studiyasi, IT texnologiyalar, robototexnika, gimnastika, taekvondo."
+    },
+    "contact": {
+      "ToContact": "Biz bilan bog‘laning",
+      "Contacts": "Aloqa ma’lumotlari",
+      "address": "Toshkent shahri, Chilonzor tumani, 16-mavze, Botirma ko‘chasi",
+      "number": "+998 97 197 07 71 (Du.–Ju. soat 09:00 dan 17:00 gacha)",
+      "request": "So‘rov yuboring",
+      "celebrate": "Maktabimiz ochilishi munosabati bilan 20% chegirma taqdim etamiz",
+      "name": "ism",
+      "surname": "familiya",
+      "phoneNumber": "telefon nomer"
+    },
+    "footer": {
+      "title": "Aloqa ma’lumotlari:",
+      "desc": "Biz bilan bo‘ling:"
+    }
+  }
